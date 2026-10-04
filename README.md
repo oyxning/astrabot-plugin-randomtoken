@@ -1,4 +1,4 @@
-# astrbot-plugin-randomtoken
+﻿# astrbot-plugin-randomtoken
 
 AstrBot插件：随机Token生成与管理工具
 
@@ -65,7 +65,6 @@ AstrBot插件：随机Token生成与管理工具
 
 > 注：作为AstrBot生态插件，本项目遵循主项目的开源协议要求，确保衍生作品的开源兼容性。
 >
-> ## 💡 另：插件反馈群
+> ## 💡 联系作者
 
-由于作者持续的那么一个懒，平常不会及时的看issues，所以开了个QQ反馈群方便用户及时的拷打作者。
-点击链接加入群聊【Astrbot Plugin 猫娘乐园】：https://qm.qq.com/q/dBWQXCpwnm
+如有紧急问题，请联系邮箱：shy0074@tongujiyu.cn
